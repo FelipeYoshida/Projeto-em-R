@@ -1,3 +1,4 @@
 # About the Project
 The Internet Movie Database (IMDb), with its vast collection of film-related data, has become a goldmine for researchers and enthusiasts seeking to understand the world of cinema. This analysis aims to delve into the IMDb dataset, exploring its extensive information on movies, actors, directors, ratings, and more. The IMDb dataset offers a comprehensive snapshot of the global film landscape, spanning multiple decades and genres. It encompasses a diverse range of movies, from timeless classics to modern blockbusters, enabling researchers to gain valuable insights into the evolution of cinematic trends over time. By leveraging the power of data analytics, we can uncover fascinating patterns, trends, and correlations within this rich dataset. This analysis will employ statistical techniques, data visualization to extract meaningful information and shed light on various aspects of the film industry.
-The file for this project is available on: https://www.kaggle.com/datasets/ashpalsingh1525/imdb-movies-dataset
+
+The file for this project is available on: https://www.kaggle.com/datasets/ashpalsingh1525/imdb-movies-dataset.
